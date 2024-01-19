@@ -8,7 +8,7 @@
 
 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve genellikle [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) üzerinde çalışıyorum. Proje yapmaya ve sürekli öğrenmeye meraklıyım.
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 

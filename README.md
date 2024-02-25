@@ -17,7 +17,7 @@ Profilimde yer alan bazı projeler:
 ## 📚 Öğrenmeye Devam Ettiklerim
 
 - Backend: ASP.NET, ASP.NET MVC 
-- Veritabanı: MSSQL
+- Veritabanı: MSSQL , Oracle SQL
 
 ## 📊 Kullandığım Diller
 

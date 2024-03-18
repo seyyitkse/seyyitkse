@@ -18,7 +18,7 @@ Profilimde yer alan bazı projeler:
 
 - Diller: C,C#
 - Backend: .NET Core, .NET MVC 
-- Veritabanı: MSSQL , Oracle SQL
+- Veritabanı: MSSQL , Oracle SQL, MySQL
 
 ## 📊 Kullandığım Diller
 

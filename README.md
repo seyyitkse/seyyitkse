@@ -35,3 +35,9 @@ Ben Ahmet Seyyit. Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve  [ASP.N
 <div align="left">
   <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seyyitkse/seyyitkse/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seyyitkse/seyyitkse/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seyyitkse/seyyitkse/output/github-contribution-grid-snake.svg">
+</picture>

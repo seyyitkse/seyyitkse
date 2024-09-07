@@ -6,7 +6,7 @@
 
 ## 🚀 Hakkımda
 
-Ben Ahmet Seyyit. Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve  [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) öğreniyorum. Proje yapmayı seviyorum.
+Ben Ahmet Seyyit. Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve  [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) öğreniyorum. Proje yapmayı seviyorum.
 
 ## 🛠️ Profilimde yer alan bazı projeler:
 - [MVC Online Ticari Otomasyon](https://github.com/seyyitkse/MVC_OnlineTicariOtomasyon)

@@ -28,6 +28,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00E676&center=true&vCenter=true&width=900&lines=Cyber+Security+%7C+Monitoring+%7C+Infrastructure;Cortex+XDR+%7C+Palo+Alto+%7C+FortiMail;Zabbix+%7C+Security+Reporting+%7C+Continuous+Improvement;System+Engineering+%7C+Automation+%7C+Visibility" alt="typing" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="330" alt="cyber gif 1" />
+  <img src="https://media.giphy.com/media/3orieYWe02pGslNpCw/giphy.gif" width="330" alt="cyber gif 2" />
+</p>
+
 ---
 
 ## ✨ About Me

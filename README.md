@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Learning-f59e0b?style=for-the-badge" alt="learning" />
 </p>
 
-<h1 align="center">⚡ Ahmet Seyyit Köse</h1>
+<h1 align="center">⚡ Ahmet Seyyit KÖSE</h1>
 <h3 align="center">System Engineer • Cyber Security Specialist</h3>
 
 <p align="center">

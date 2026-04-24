@@ -135,14 +135,15 @@ My focus is on building, monitoring, and improving secure infrastructures with a
 ## 📈 GitHub Stats
 
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=seyyitkse&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyyitkse&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyyitkse&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seyyitkse/seyyitkse/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyyitkse&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
 ---
 
 ## 🌱 Currently Working On

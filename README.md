@@ -92,9 +92,9 @@ My focus is on building, monitoring, and improving secure infrastructures with a
 - 🎓 **Cisco Networking Academy** — Junior Cybersecurity Analyst Career Path
 - 📋 **ALLSAFE Cyber Security** — ISMS Internal Auditor Training
 - 🔐 **Palo Alto Networks**
-  - SOC Processes
-  - Introduction to SecOps
-  - Security Operations Fundamentals
+  - Cortex XDR Engineer
+  - Cortex XDR Analyst
+  - Cortex XQL
 
 ---
 
